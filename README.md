@@ -1,0 +1,4 @@
+designpattern
+=============
+
+design pattern sample
